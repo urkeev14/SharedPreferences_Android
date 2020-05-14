@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SharedPreferences_Android</string>
+    <string name="message">Save or not, it will be saved !</string>
 </resources>
